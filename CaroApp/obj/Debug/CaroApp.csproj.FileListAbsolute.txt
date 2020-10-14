@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\bin\Debug\CaroApp.exe.config
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\bin\Debug\CaroApp.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\bin\Debug\CaroApp.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.Properties.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.exe
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.pdb
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.MenuPrincipal.resources
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\bin\Debug\CaroApp.exe.manifest
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\bin\Debug\CaroApp.application
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.exe.manifest
+C:\Users\Martin\Documents\Visual Studio 2017\Projects\CaroApp\CaroApp\obj\Debug\CaroApp.application
